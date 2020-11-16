@@ -28,3 +28,9 @@ while i<45:
     i+=10
 
 # BREAK AND CONTINUE STATMENT IN PYTHON
+
+# shorthand if else
+
+a = int(input("enter a number \n"))
+b = int(input("enter b number \n"))
+print("mohan") if a<b else print("kumar")
