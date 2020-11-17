@@ -26,8 +26,23 @@ for line in f:     #print line by line
 # a = f.write("Harry is good guy\n")
 # print(a)
 # f.close()
-f = open("Harry.txt","r+")  # handel read and write both modes
-print(f.read())
-a = f.write("Harry is good guy\n")
-print(a)
-f.close()
+# f = open("Harry.txt","r+")  # handel read and write both modes
+# print(f.read())
+# a = f.write("Harry is good guy\n")
+# print(a)
+# f.close()
+
+
+# more on files
+# f = open("Harry.txt",)
+# print(f.tell())   # tell pointer current position
+# print(f.readline())
+# print(f.tell())
+# print(f.readline())
+#
+# f.seek(0)  # set pointer to a particular character
+# print(f.readline())
+
+# opening file with block
+with open("Harry.txt") as f:
+    print(f.read(4))
