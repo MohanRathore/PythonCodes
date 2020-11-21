@@ -39,4 +39,4 @@ print(harry.no_of_leaves)
 harry.no_of_leaves = 10
 print(Employee.no_of_leaves)
 print(harry.salary)
-print(harry.__dict__)  # dict of an object 
+print(harry.__dict__)  # dict of an object
