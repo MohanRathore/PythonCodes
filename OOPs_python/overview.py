@@ -4,18 +4,39 @@
 # OOps uses DRY -(dont repeat yourself)
 # get_no_of_filmes(srk)
 
-class Student:
+# class Student:
+#     pass
+#
+# harry = Student()  # instance of class
+# larry = Student()
+#
+# print(harry)
+# print(larry)
+#
+# harry.name = "harry"   #  instance variabele of object
+# harry.std = 12
+# harry.section = "A"
+#
+# print(harry.name)
+# print(harry.std)
+
+class Employee:
+    no_of_leaves = 8
     pass
 
-harry = Student()  # instance of class
-larry = Student()
+harry = Employee()
+larry = Employee()
 
-print(harry)
-print(larry)
+harry.name = "harry"
+harry.salary = 800
+harry.role = "Teacher"
 
-harry.name = "harry"   # variable of instance
-harry.std = 12
-harry.section = "A"
+larry.name = "larry"
+larry.salary = 1000
+larry.role = "police"
 
-print(harry.name)
-print(harry.std)
+print(harry.no_of_leaves)
+harry.no_of_leaves = 10
+print(Employee.no_of_leaves)
+print(harry.salary)
+print(harry.__dict__)  # dict of an object 
