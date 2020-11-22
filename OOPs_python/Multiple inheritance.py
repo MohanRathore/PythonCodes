@@ -1,6 +1,7 @@
 # single Inheritance
 class Employee:
     no_of_leaves = 8
+    var = 8
     def __init__(self,aname,asalry,arole):
         self.name = aname
         self.salary = asalry
@@ -24,22 +25,25 @@ class Employee:
     def printgood(string):
         print("This is good " + string)
 
+class Player:
+    no_of_games : 4
+    var = 9
+    def __init__(self,aname, agame):
+        self.name = aname
+        self.game = agame
 
-class Programmer(Employee):  #single inhertance inherited Emplyee class
-    def __init__(self,languages):
-        super()
-        self.languages = languages
+    def printdetails(self):
+        return f"Name is {self.name} gmae is {self.game} "
 
-    def printprog(self):
-        return f"Programmer Name is {self.name} salary is {self.salary} and role is {self.role} language is"
-
-
+class CoolProgrammer(Employee,Player):  # jo phei class hai uska constructor call krega
+    language = "c++"
+    var = 10
+    def printlanguage(self):
+        print (self.language)
 
 harry = Employee("Harry",800,"Teacher")
 rohan = Employee("rohan",10000,"Programmer")
+shubham = Player("shubham",["cricket","football"])
+mohan = CoolProgrammer("mohan",500000,"coolprog")
 
-shubham = Programmer("shubham",500000,"coder","python")
-karan = Programmer("karan",500,"coder")
-
-print(karan.printprog())
-print(karan.printdetails())
+print(mohan.var)

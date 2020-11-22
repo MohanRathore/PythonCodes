@@ -11,10 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57f7d874-b5f2-4a3b-abcd-6770d256cc79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OOPs_python/Abstraction and Encapsulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPs_python/class_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPs_python/static methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs_python/Multiple inheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs_python/Inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs_python/Inheritance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,49 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.static methods">
+  <component name="RunManager" selected="Python.Multiple inheritance">
+    <configuration name="Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPs_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPs_python/Inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Multiple inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPs_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPs_python/Multiple inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="class_method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,48 +127,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="overview" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPs_python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPs_python/overview.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="static methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Multiple inheritance" />
+        <item itemvalue="Python.Inheritance" />
         <item itemvalue="Python.static methods" />
         <item itemvalue="Python.class_method" />
         <item itemvalue="Python.constructor_python" />
-        <item itemvalue="Python.overview" />
-        <item itemvalue="Python.decorator" />
       </list>
     </recent_temporary>
   </component>
@@ -193,22 +192,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1605712642708" />
-    <state width="1258" height="143" key="GridCell.Tab.0.bottom" timestamp="1605980179788">
+    <state width="1258" height="143" key="GridCell.Tab.0.bottom" timestamp="1606025665994">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1258" height="143" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1605980179788" />
-    <state width="1258" height="143" key="GridCell.Tab.0.center" timestamp="1605980179786">
+    <state width="1258" height="143" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1606025665994" />
+    <state width="1258" height="143" key="GridCell.Tab.0.center" timestamp="1606025665994">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1258" height="143" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1605980179786" />
-    <state width="1258" height="143" key="GridCell.Tab.0.left" timestamp="1605980179786">
+    <state width="1258" height="143" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1606025665994" />
+    <state width="1258" height="143" key="GridCell.Tab.0.left" timestamp="1606025665994">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1258" height="143" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1605980179786" />
-    <state width="1258" height="143" key="GridCell.Tab.0.right" timestamp="1605980179787">
+    <state width="1258" height="143" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1606025665994" />
+    <state width="1258" height="143" key="GridCell.Tab.0.right" timestamp="1606025665994">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1258" height="143" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1605980179787" />
+    <state width="1258" height="143" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1606025665994" />
     <state width="1258" height="220" key="GridCell.Tab.1.bottom" timestamp="1605899824476">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
