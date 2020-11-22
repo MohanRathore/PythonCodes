@@ -11,11 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57f7d874-b5f2-4a3b-abcd-6770d256cc79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OOPs_python/overridind and super.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPs_python/pbulic private protected.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPs_python/ploymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs_python/Abstract_base class and method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs_python/operator overloading and dunder methods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs_python/Multilevel inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs_python/Multilevel inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPs_python/dimoand shape prob in MULple_inhertance.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs_python/dimoand shape prob in MULple_inhertance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.overridind and super">
+  <component name="RunManager" selected="Python.operator overloading and dunder methods">
     <configuration name="Multilevel inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Multiple inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="operator overloading and dunder methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +77,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPs_python/Multiple inheritance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPs_python/operator overloading and dunder methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.operator overloading and dunder methods" />
         <item itemvalue="Python.overridind and super" />
         <item itemvalue="Python.ploymorphism" />
         <item itemvalue="Python.pbulic private protected" />
         <item itemvalue="Python.Multilevel inheritance" />
-        <item itemvalue="Python.Multiple inheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -194,22 +193,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1605712642708" />
-    <state width="1258" height="143" key="GridCell.Tab.0.bottom" timestamp="1606028299440">
+    <state width="1258" height="143" key="GridCell.Tab.0.bottom" timestamp="1606032539312">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1258" height="143" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1606028299440" />
-    <state width="1258" height="143" key="GridCell.Tab.0.center" timestamp="1606028299439">
+    <state width="1258" height="143" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1606032539312" />
+    <state width="1258" height="143" key="GridCell.Tab.0.center" timestamp="1606032539311">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1258" height="143" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1606028299439" />
-    <state width="1258" height="143" key="GridCell.Tab.0.left" timestamp="1606028299439">
+    <state width="1258" height="143" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1606032539311" />
+    <state width="1258" height="143" key="GridCell.Tab.0.left" timestamp="1606032539311">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1258" height="143" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1606028299439" />
-    <state width="1258" height="143" key="GridCell.Tab.0.right" timestamp="1606028299439">
+    <state width="1258" height="143" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1606032539311" />
+    <state width="1258" height="143" key="GridCell.Tab.0.right" timestamp="1606032539311">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1258" height="143" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1606028299439" />
+    <state width="1258" height="143" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1606032539311" />
     <state width="1258" height="220" key="GridCell.Tab.1.bottom" timestamp="1605899824476">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
